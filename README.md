@@ -20,3 +20,4 @@
 三、HTML头部
 1.&lth1&gt标签 添加网页的标题，不是文档的标题
 2.&ltmeta&gt元素是元数据 name指示了meta元素的类型，content指示了内容，charset="utf-8"将文档字符集设置为UTF-8，对几乎所有语言通用的字符编码。
+
