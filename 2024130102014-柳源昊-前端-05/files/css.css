@@ -1,0 +1,33 @@
+h1 {
+    color: green;
+}
+html {
+    place-items: center;
+}
+.outside {
+    display: grid;
+    place-items: center;
+    max-width: 800px;
+
+}
+.up {
+    position: sticky;
+    top: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgba(255, 244, 198, 0.925);
+    height: 30px;
+    font-size: large;
+}
+.inline {
+    height: 100px;
+}
+
+.imaage {
+    text-align: center;
+}
+
+.last {
+    
+}
